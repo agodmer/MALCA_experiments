@@ -1,0 +1,30 @@
+MALCA Software License — Evaluation and Non-Commercial Research Only
+
+Copyright (c) 2025 <GODMER, AP-PH Sorbonne Université>
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy, and modify
+the Software solely for internal evaluation and non-commercial academic research purposes,
+without redistribution of the Software or derivative works.
+
+You may not use the Software for clinical, diagnostic, regulatory, or commercial purposes.
+
+You may not distribute, sublicense, or make the Software (or any derivative works) available
+to third parties without prior written permission from the copyright holder(s).
+
+This license applies to the code provided in this repository only and does not grant access
+to clinical datasets, trained production models, or the full MALCA implementation.
+
+NO PATENT LICENSE. This license does not grant any rights under any patent applications or
+patents, including but not limited to patent application FR2415430 (and any related national
+or international filings). Any such rights require a separate written agreement.
+
+Attribution: any publication or presentation using the Software must cite the associated work
+and acknowledge the copyright holder(s).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
