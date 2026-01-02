@@ -1,4 +1,4 @@
-# MALCA — Toy Demonstration (RF-RFE + Random Forest)
+# MALCA - Toy Demonstration (RF-RFE + Random Forest)
 
 ## Direct carbapenemase typing from disc diffusion antibiograms with MALCA  
 **MAchine Learning CArbapenemase**
