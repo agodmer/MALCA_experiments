@@ -10,6 +10,7 @@ suppressPackageStartupMessages({
   library(caret)
   library(randomForest)
   library(pROC)
+  library(MLmetrics)
 })
 
 # ============================================================
