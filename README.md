@@ -53,6 +53,7 @@ This GitHub repository provides a **minimal, single-file R demonstration** of a 
   - `caret`
   - `randomForest`
   - `pROC`
+  -  `MLmetrics` 
 
 ### Install dependencies
 
@@ -60,7 +61,7 @@ From within R:
 
 ```r
 ## Typical installation time is less than 5 minutes on a standard desktop computer.
-install.packages(c("caret", "randomForest", "pROC"))
+install.packages(c("caret", "randomForest", "pROC", "MLmetrics"))
 ## Run the demo
 ## From the repository root, run:
 Rscript malca_demo.R
