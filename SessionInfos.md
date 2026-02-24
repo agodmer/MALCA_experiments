@@ -15,7 +15,7 @@ other attached packages:
  [7] tidygraph_1.3.1         scales_1.3.0            ggalluvial_0.12.5       fmsb_0.7.6              tidytext_0.4.3          pheatmap_1.0.12        
 [13] gt_1.0.0                forcats_1.0.0           stringr_1.5.1           purrr_1.0.2             ResourceSelection_0.3-6 gdtools_0.4.2          
 [19] export_0.3.0            tidyr_1.3.1             tibble_3.2.1            pROC_1.18.5             openxlsx_4.2.5.2        caret_6.0-94           
-[25] lattice_0.21-9          ggplot2_3.5.2           dplyr_1.1.4             readxl_1.4.3           
+[25] lattice_0.21-9          ggplot2_3.5.2           dplyr_1.1.4             readxl_1.4.3            MLmetrics_1.1.3         
 
 loaded via a namespace (and not attached):
   [1] splines_4.3.2           later_1.3.2             cellranger_1.1.0        polyclip_1.10-7         hardhat_1.4.1           rpart_4.1.21           
