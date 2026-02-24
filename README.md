@@ -59,6 +59,7 @@ This GitHub repository provides a **minimal, single-file R demonstration** of a 
 From within R:
 
 ```r
+## Typical installation time is less than 5 minutes on a standard desktop computer.
 install.packages(c("caret", "randomForest", "pROC"))
 ## Run the demo
 ## From the repository root, run:
