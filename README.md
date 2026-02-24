@@ -65,6 +65,7 @@ install.packages(c("caret", "randomForest", "pROC", "MLmetrics"))
 ## Run the demo
 ## From the repository root, run:
 Rscript malca_demo.R
+## Expected demo run time: approximately 3-5 minutes on a standard desktop CPU (Windows 11 x64; R 4.3.2).
 ```
 
 The script outputs:
